@@ -1,0 +1,4 @@
+.idea
+virtualenv
+*.iml
+emendamenti.csv
